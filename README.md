@@ -17,7 +17,7 @@ HOW WE USE YOUR INFORMATION
 
 We do not collect your information, therefore it is not possible to use your data or information.
 
-We do not store any PII on our own IT-systems. Please refer to the Data Protection Policies of the Service Providers referred to below. 
+We do not store any PII on our own IT-systems. 
 
 HOW WE SHARE YOUR INFORMATION 
 
